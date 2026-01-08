@@ -15,6 +15,7 @@ public class MenuSteuerung
 
             for (int i = 0; i < options.Length; i++)
             {
+                Console.WriteLine(options);
                 if (i == selectedIndex)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;

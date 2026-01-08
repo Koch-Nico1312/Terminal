@@ -1,0 +1,5 @@
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Debug\net9.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Debug\net9.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Debug\net9.0\Terminal.AssemblyInfo.cs
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Debug\net9.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Debug\net9.0\Terminal.sourcelink.json
