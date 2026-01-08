@@ -1,0 +1,12 @@
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\bin\Debug\net9.0\Name.deps.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\bin\Debug\net9.0\Name.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\bin\Debug\net9.0\Name.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\obj\Debug\net9.0\Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\obj\Debug\net9.0\Name.AssemblyInfoInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\obj\Debug\net9.0\Name.AssemblyInfo.cs
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\obj\Debug\net9.0\Name.csproj.CoreCompileInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\obj\Debug\net9.0\Name.sourcelink.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\obj\Debug\net9.0\Name.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\obj\Debug\net9.0\refint\Name.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\obj\Debug\net9.0\Name.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Name\obj\Debug\net9.0\ref\Name.dll

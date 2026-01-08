@@ -1,10 +1,10 @@
 ﻿namespace Namen;
 public class namenAbfrage
 {
-    public string name = "";
-    public void main()
+    public static string main()
     {
         Console.WriteLine("Gib deinen Namen ein:");
-        name = Console.ReadLine()!;
+        string name = Console.ReadLine()!;
+        return name;
     }
 }

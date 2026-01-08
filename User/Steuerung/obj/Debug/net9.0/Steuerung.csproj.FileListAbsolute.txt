@@ -1,0 +1,12 @@
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Steuerung.deps.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Steuerung.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Steuerung.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.AssemblyInfoInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.AssemblyInfo.cs
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.csproj.CoreCompileInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.sourcelink.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\refint\Steuerung.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\ref\Steuerung.dll

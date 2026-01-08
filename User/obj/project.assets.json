@@ -1,11 +1,102 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Admin/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Name": "1.0.0",
+          "Steuerung": "1.0.0",
+          "Unicode Zeichen": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Admin.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Admin.dll": {}
+        }
+      },
+      "casualUser/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Name": "1.0.0",
+          "Steuerung": "1.0.0",
+          "Unicode Zeichen": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/casualUser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/casualUser.dll": {}
+        }
+      },
+      "Name/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Name.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Name.dll": {}
+        }
+      },
+      "Steuerung/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Steuerung.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Steuerung.dll": {}
+        }
+      },
+      "Unicode Zeichen/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Unicode Zeichen.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unicode Zeichen.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Admin/1.0.0": {
+      "type": "project",
+      "path": "Admin/Admin.csproj",
+      "msbuildProject": "Admin/Admin.csproj"
+    },
+    "casualUser/1.0.0": {
+      "type": "project",
+      "path": "casualUser/casualUser.csproj",
+      "msbuildProject": "casualUser/casualUser.csproj"
+    },
+    "Name/1.0.0": {
+      "type": "project",
+      "path": "Name/Name.csproj",
+      "msbuildProject": "Name/Name.csproj"
+    },
+    "Steuerung/1.0.0": {
+      "type": "project",
+      "path": "Steuerung/Steuerung.csproj",
+      "msbuildProject": "Steuerung/Steuerung.csproj"
+    },
+    "Unicode Zeichen/1.0.0": {
+      "type": "project",
+      "path": "Name/Unicode Zeichen/Unicode Zeichen.csproj",
+      "msbuildProject": "Name/Unicode Zeichen/Unicode Zeichen.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Admin >= 1.0.0",
+      "Name >= 1.0.0",
+      "casualUser >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\": {},
@@ -39,7 +130,17 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Admin\\Admin.csproj": {
+              "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Admin\\Admin.csproj"
+            },
+            "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\casualUser\\casualUser.csproj": {
+              "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\casualUser\\casualUser.csproj"
+            },
+            "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj": {
+              "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

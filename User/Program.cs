@@ -5,19 +5,16 @@ namespace user;
 
 public class User
 {
-    namenAbfrage n = new namenAbfrage();
-    Admin a = new Admin();
-    CasualUser c = new CasualUser();
-    public void user()
+    public static void main()
     {
-        n.main();
-        if (n.name == "Admin")
+        namenAbfrage.main();
+        if (namenAbfrage.main() == "Admin")
         {
-            a.admin();
+            Admin.admin();
         }
         else
         {
-            c.main();
+            CasualUser.main();
         }
     }
 }

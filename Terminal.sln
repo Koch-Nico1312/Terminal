@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminal", "Terminal.csproj", "{34B802DB-004C-5863-40A2-130F76A6899B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C72ADD1B-6956-4B8B-8255-1540B353E0D3} = {C72ADD1B-6956-4B8B-8255-1540B353E0D3}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User", "User\User.csproj", "{C72ADD1B-6956-4B8B-8255-1540B353E0D3}"
 EndProject

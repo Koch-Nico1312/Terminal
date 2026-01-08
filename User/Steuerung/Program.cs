@@ -2,20 +2,17 @@
 
 public class MenuSteuerung
 {
-    public int Auswaehlen(){
-        
-        string[] options = { "Option 1", "Option 2", "Option 3", "Option 4" };
+    public static int Auswaehlen(string[] options){
         int selectedIndex = 0;
 
         ConsoleKey key;
 
         do
         {
-            Console.Clear();;
+            Console.Clear();
 
             for (int i = 0; i < options.Length; i++)
             {
-                Console.WriteLine(options);
                 if (i == selectedIndex)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
@@ -39,6 +36,11 @@ public class MenuSteuerung
             {
                 selectedIndex++;
                 if (selectedIndex >= options.Length) selectedIndex = 0;
+            }
+            else if (selectedIndex > options.Length - 1)
+            {
+                selectedIndex = 0;
+                
             }
 
         } while (key != ConsoleKey.Enter);

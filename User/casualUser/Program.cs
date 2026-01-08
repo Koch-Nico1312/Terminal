@@ -11,12 +11,11 @@ public class CasualUser
 {
 Variablen v = new Variablen();
 namenAbfrage n = new namenAbfrage();
-CasualUser c = new CasualUser();
 MenuSteuerung m = new MenuSteuerung();
 
-public string[] options = { "Privat", "Schule", "Beenden" };
+public static string[] options = { "Privat", "Schule", "Beenden" };
 
-public void mainPrivat()
+public static void mainPrivat()
 {
     string[] options = {"YouTube","Zurück" };
 
@@ -26,7 +25,7 @@ public void mainPrivat()
         "https://www.youtube.com",
     };
 
-    var auswahl = m.Auswaehlen();
+    var auswahl = MenuSteuerung.Auswaehlen(options);
 
     if (auswahl == 0)
     {
@@ -40,11 +39,11 @@ public void mainPrivat()
     }
     else if (auswahl == 1)
     {
-        c.main();
+        CasualUser.main();
     }
 }
 
-public void mainSchool()
+public static void mainSchool()
 {
     string[] options = { "EDUFS", "VS Code", "Zurück" };
 
@@ -54,7 +53,7 @@ public void mainSchool()
         "https://edufs.edu.htl-leonding.ac.at/moodle",
     };
 
-    var auswahl = m.Auswaehlen();
+    var auswahl = MenuSteuerung.Auswaehlen(options);
 
     if (auswahl == 0)
     {
@@ -73,23 +72,23 @@ public void mainSchool()
     }
     else if (auswahl == 2)
     {
-        c.main();
+        CasualUser.main();
     }
 }
 
-public void main()
+public static void main()
 {
     while (true)
     {
-        var auswahl = m.Auswaehlen();
+        var auswahl = MenuSteuerung.Auswaehlen(options);
 
         if (auswahl == 0)
         {
-            c.mainPrivat();
+            CasualUser.mainPrivat();
         }
         else if (auswahl == 1)
         {
-            c.mainSchool();
+            CasualUser.mainSchool();
         }
         else if (auswahl == 2)
         {

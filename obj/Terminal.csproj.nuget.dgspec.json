@@ -32,7 +32,437 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\User.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\User.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Admin\\Admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Admin\\Admin.csproj",
+        "projectName": "Admin",
+        "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Admin\\Admin.csproj",
+        "packagesPath": "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kochn_lrehka5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj"
+              },
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Unicode Zeichen\\Unicode Zeichen.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Unicode Zeichen\\Unicode Zeichen.csproj"
+              },
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Steuerung\\Steuerung.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Steuerung\\Steuerung.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\casualUser\\casualUser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\casualUser\\casualUser.csproj",
+        "projectName": "casualUser",
+        "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\casualUser\\casualUser.csproj",
+        "packagesPath": "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\casualUser\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kochn_lrehka5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj"
+              },
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Unicode Zeichen\\Unicode Zeichen.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Unicode Zeichen\\Unicode Zeichen.csproj"
+              },
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Steuerung\\Steuerung.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Steuerung\\Steuerung.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj",
+        "projectName": "Name",
+        "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj",
+        "packagesPath": "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kochn_lrehka5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Unicode Zeichen\\Unicode Zeichen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Unicode Zeichen\\Unicode Zeichen.csproj",
+        "projectName": "Unicode Zeichen",
+        "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Unicode Zeichen\\Unicode Zeichen.csproj",
+        "packagesPath": "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Unicode Zeichen\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kochn_lrehka5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Steuerung\\Steuerung.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Steuerung\\Steuerung.csproj",
+        "projectName": "Steuerung",
+        "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Steuerung\\Steuerung.csproj",
+        "packagesPath": "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Steuerung\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kochn_lrehka5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\User.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\User.csproj",
+        "projectName": "User",
+        "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\User.csproj",
+        "packagesPath": "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kochn_lrehka5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Admin\\Admin.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Admin\\Admin.csproj"
+              },
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\casualUser\\casualUser.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\casualUser\\casualUser.csproj"
+              },
+              "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj": {
+                "projectPath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Name\\Name.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
