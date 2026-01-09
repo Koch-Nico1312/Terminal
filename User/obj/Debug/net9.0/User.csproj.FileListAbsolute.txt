@@ -2,6 +2,7 @@ C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\User.deps.json
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\User.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\User.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Admin.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Anzeigen.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\casualUser.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Name.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Steuerung.dll
@@ -9,6 +10,7 @@ C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Unicode Zeichen.dl
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Name.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Admin.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\casualUser.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Anzeigen.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Steuerung.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Debug\net9.0\Unicode Zeichen.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Debug\net9.0\User.csproj.AssemblyReference.cache

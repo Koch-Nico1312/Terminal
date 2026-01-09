@@ -7,7 +7,7 @@ public class User
 {
     public static void main()
     {
-        if (namenAbfrage.main() == "Admin")
+        if (namenAbfrage.main() == "NicoA")
         {
             Admin.admin();
         }

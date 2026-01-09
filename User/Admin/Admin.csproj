@@ -10,7 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Name\Name.csproj" />
     <ProjectReference Include="..\Steuerung\Steuerung.csproj" />
-    <ProjectReference Include="..\Name\Unicode Zeichen\Unicode Zeichen.csproj" />
+    <ProjectReference Include="..\Unicode Zeichen\Unicode Zeichen.csproj" />
   </ItemGroup>
 
 </Project>

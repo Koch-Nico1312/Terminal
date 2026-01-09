@@ -1,12 +1,14 @@
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Admin.deps.json
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Admin.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Admin.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Anzeigen.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Name.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Steuerung.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Unicode Zeichen.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Name.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Steuerung.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Unicode Zeichen.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\bin\Debug\net9.0\Anzeigen.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\obj\Debug\net9.0\Admin.csproj.AssemblyReference.cache
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\obj\Debug\net9.0\Admin.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Admin\obj\Debug\net9.0\Admin.AssemblyInfoInputs.cache

@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "t8KguHgpRPo=",
+  "dgSpecHash": "zmzzv79LKHg=",
   "success": true,
   "projectFilePath": "C:\\Users\\kochn_lrehka5\\Desktop\\Terminal\\User\\Admin\\Admin.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.1\\system.configuration.configurationmanager.10.0.1.nupkg.sha512",
+    "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.1\\system.diagnostics.eventlog.10.0.1.nupkg.sha512",
+    "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.1\\system.diagnostics.performancecounter.10.0.1.nupkg.sha512",
+    "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.1\\system.security.cryptography.protecteddata.10.0.1.nupkg.sha512",
+    "C:\\Users\\kochn_lrehka5\\.nuget\\packages\\system.threading.accesscontrol\\10.0.1\\system.threading.accesscontrol.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

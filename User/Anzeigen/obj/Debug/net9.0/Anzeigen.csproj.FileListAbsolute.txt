@@ -1,0 +1,16 @@
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\bin\Debug\net9.0\Anzeigen.deps.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\bin\Debug\net9.0\Anzeigen.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\bin\Debug\net9.0\Anzeigen.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\bin\Debug\net9.0\Unicode Zeichen.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\bin\Debug\net9.0\Unicode Zeichen.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\Anzeigen.csproj.AssemblyReference.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\Anzeigen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\Anzeigen.AssemblyInfoInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\Anzeigen.AssemblyInfo.cs
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\Anzeigen.csproj.CoreCompileInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\Anzeigen.sourcelink.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\Anzeigen.csproj.Up2Date
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\Anzeigen.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\refint\Anzeigen.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\Anzeigen.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\Anzeigen\obj\Debug\net9.0\ref\Anzeigen.dll
