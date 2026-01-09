@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics.Contracts;
 
-namespace Buchstaben
-{
+namespace Buchstaben;
+
     public class Variablen
     {
         public string A = @" 
@@ -195,4 +195,3 @@ namespace Buchstaben
         ██║  ██║███████╗███████╗███████╗╚██████╔╝
         ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ";
     }
-}

@@ -2,15 +2,14 @@
 
 public class MenuSteuerung
 {
-    public static int Auswaehlen(string[] options){
+    public static int Auswaehlen(string[] options)
+    {
         int selectedIndex = 0;
-
         ConsoleKey key;
 
         do
         {
             Console.Clear();
-
             for (int i = 0; i < options.Length; i++)
             {
                 if (i == selectedIndex)
