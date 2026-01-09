@@ -1,1 +1,1 @@
-My personal terminal project
+My personal small terminal project
