@@ -64,7 +64,7 @@ public class MenuSteuerung
 
             Anzeigen.showAdminInfos();
 
-            Console.SetCursorPosition(0,8);
+            Console.SetCursorPosition(0,10);
 
             for (int i = 0; i < options.Length; i++)
             {

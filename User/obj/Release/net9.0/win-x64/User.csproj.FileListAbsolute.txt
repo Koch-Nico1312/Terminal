@@ -1,0 +1,26 @@
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\User.deps.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\User.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\User.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Admin.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Anzeigen.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\casualUser.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Name.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Steuerung.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Unicode Zeichen.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Name.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Admin.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\casualUser.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Anzeigen.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Steuerung.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\bin\Release\net9.0\win-x64\Unicode Zeichen.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\User.csproj.AssemblyReference.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\User.AssemblyInfoInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\User.AssemblyInfo.cs
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\User.csproj.CoreCompileInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\User.sourcelink.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\User.csproj.Up2Date
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\User.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\refint\User.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\User.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\User\obj\Release\net9.0\win-x64\ref\User.dll

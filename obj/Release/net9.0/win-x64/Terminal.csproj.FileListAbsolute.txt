@@ -1,0 +1,37 @@
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Terminal.exe
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Terminal.deps.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Terminal.runtimeconfig.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Terminal.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Terminal.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\System.Threading.AccessControl.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Admin.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Anzeigen.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\casualUser.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Name.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Steuerung.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Unicode Zeichen.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\User.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\User.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Admin.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Anzeigen.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\casualUser.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Name.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Steuerung.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\bin\Release\net9.0\win-x64\Unicode Zeichen.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.csproj.AssemblyReference.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.AssemblyInfoInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.AssemblyInfo.cs
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.sourcelink.json
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.csproj.Up2Date
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\refint\Terminal.dll
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.pdb
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\Terminal.genruntimeconfig.cache
+C:\Users\kochn_lrehka5\Desktop\Terminal\obj\Release\net9.0\win-x64\ref\Terminal.dll
