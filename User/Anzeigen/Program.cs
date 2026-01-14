@@ -44,6 +44,9 @@ public class Anzeigen
         }
 
         Console.SetCursorPosition(80, number);
-        Console.WriteLine($"Aktuelle Uhrzeit: {DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss")}");
+        Console.WriteLine($"Aktuelle Uhrzeit: {DateTime.Now.ToString("HH:mm:ss")}");
+        
+        Console.SetCursorPosition(80, number + 1);
+        Console.WriteLine($"Datum: {DateTime.Now.ToString("dd.MM.yyyy")}");
     }
 }

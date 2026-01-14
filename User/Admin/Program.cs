@@ -22,8 +22,15 @@ public class Admin
         {
             "Youtube schauen",
             "Serie schauen",
-            "VS Code",
+            "Schule",
             "Beenden"
+        };
+
+        string[] optionsSchule =
+        {
+          "VS Code",
+          "Edufs",  
+          "Zurück",
         };
 
         string[] optionsSerie =
@@ -39,7 +46,8 @@ public class Admin
             "Platzhalter",
             "www.youtube.com",
             "https://www.joyn.at/serien/the-mentalist", 
-            "https://www.joyn.at/serien/the-originals"
+            "https://www.joyn.at/serien/the-originals",
+            "https://edufs.edu.htl-leonding.ac.at",
         };
         
         var auswahl = MenuSteuerung.AuswaehlenAdmin(options);
@@ -83,7 +91,30 @@ public class Admin
                 }
                 break;
             case 2:
-                Process.Start(@"C:\Users\kochn_lrehka5\Desktop\Microsoft VS Code\Code.exe");
+                auswahl = MenuSteuerung.AuswaehlenAdmin(optionsSchule);
+                switch (auswahl)
+                {
+                    case 0:
+                        var vscode = new ProcessStartInfo
+                        {
+                            FileName = "code",
+                            UseShellExecute = true,
+                        };
+                        Process.Start(vscode);
+                        break;
+                    case 1:
+                        var edufs = new ProcessStartInfo
+                        {
+                            FileName = "firefox",
+                            Arguments = urls[4],
+                            UseShellExecute = true,
+                        };
+                        Process.Start(edufs);
+                        break;    
+                    case 2:
+                        admin();
+                        break;
+                }
                 break;
             case 3:
                 break;        
