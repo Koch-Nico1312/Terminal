@@ -21,7 +21,6 @@ public class Admin
 
     public static void admin()
     {
-
         string[] options =
         {
             "Youtube schauen",
@@ -33,9 +32,9 @@ public class Admin
 
         string[] optionsSchule =
         {
-          "VS Code",
-          "Edufs",
-          "Zurück",
+            "VS Code",
+            "Edufs",
+            "Zurück",
         };
 
         string[] optionsSerie =
@@ -54,78 +53,82 @@ public class Admin
             "https://edufs.edu.htl-leonding.ac.at",
         };
 
-        var auswahl = MenuSteuerung.AuswaehlenAdmin(options);
-
-        switch (auswahl)
+        while (true)
         {
-            case 0:
-                var youtube = new ProcessStartInfo
-                {
-                    FileName = "firefox",
-                    Arguments = urls[1],
-                    UseShellExecute = true,
-                };
-                Process.Start(youtube);
-                break;
-            case 1:
-                auswahl = MenuSteuerung.AuswaehlenAdmin(optionsSerie);
-                switch (auswahl)
-                {
-                    case 0:
-                        var mentalist = new ProcessStartInfo
-                        {
-                            FileName = "firefox",
-                            Arguments = urls[2],
-                            UseShellExecute = true,
-                        };
-                        Process.Start(mentalist);
-                        break;
-                    case 1:
-                        var originals = new ProcessStartInfo
-                        {
-                            FileName = "firefox",
-                            Arguments = urls[3],
-                            UseShellExecute = true,
-                        };
-                        Process.Start(originals);
-                        break;
-                    case 2:
-                        admin();
-                        break;
-                }
-                break;
-            case 2:
-                auswahl = MenuSteuerung.AuswaehlenAdmin(optionsSchule);
-                switch (auswahl)
-                {
-                    case 0:
-                        var vscode = new ProcessStartInfo
-                        {
-                            FileName = "code",
-                            UseShellExecute = true,
-                        };
-                        Process.Start(vscode);
-                        break;
-                    case 1:
-                        var edufs = new ProcessStartInfo
-                        {
-                            FileName = "firefox",
-                            Arguments = urls[4],
-                            UseShellExecute = true,
-                        };
-                        Process.Start(edufs);
-                        break;
-                    case 2:
-                        admin();
-                        break;
-                }
-                break;
-            case 3:
-                AIChat.Start().Wait();
-                admin();  
-                break;
-            case 4:
-                break;
+            var auswahl = MenuSteuerung.AuswaehlenAdmin(options);
+
+            switch (auswahl)
+            {
+                case 0:
+                    var youtube = new ProcessStartInfo
+                    {
+                        FileName = "firefox",
+                        Arguments = urls[1],
+                        UseShellExecute = true,
+                    };
+                    Process.Start(youtube);
+                    break;
+
+                case 1:
+                    var auswahlSerie = MenuSteuerung.AuswaehlenAdmin(optionsSerie);
+                    switch (auswahlSerie)
+                    {
+                        case 0:
+                            var mentalist = new ProcessStartInfo
+                            {
+                                FileName = "firefox",
+                                Arguments = urls[2],
+                                UseShellExecute = true,
+                            };
+                            Process.Start(mentalist);
+                            break;
+                        case 1:
+                            var originals = new ProcessStartInfo
+                            {
+                                FileName = "firefox",
+                                Arguments = urls[3],
+                                UseShellExecute = true,
+                            };
+                            Process.Start(originals);
+                            break;
+                        case 2:
+                            break;
+                    }
+                    break;
+
+                case 2:
+                    var auswahlSchule = MenuSteuerung.AuswaehlenAdmin(optionsSchule);
+                    switch (auswahlSchule)
+                    {
+                        case 0:
+                            var vscode = new ProcessStartInfo
+                            {
+                                FileName = "code",
+                                UseShellExecute = true,
+                            };
+                            Process.Start(vscode);
+                            break;
+                        case 1:
+                            var edufs = new ProcessStartInfo
+                            {
+                                FileName = "firefox",
+                                Arguments = urls[4],
+                                UseShellExecute = true,
+                            };
+                            Process.Start(edufs);
+                            break;
+                        case 2:
+                            break;
+                    }
+                    break;
+
+                case 3:
+                    AIChat.Start().Wait();
+                    break;
+
+                case 4:
+                    return;
+            }
         }
     }
 }

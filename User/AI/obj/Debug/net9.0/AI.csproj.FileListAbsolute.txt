@@ -10,3 +10,6 @@ C:\Users\Nico\Desktop\Terminal\User\AI\obj\Debug\net9.0\AI.dll
 C:\Users\Nico\Desktop\Terminal\User\AI\obj\Debug\net9.0\refint\AI.dll
 C:\Users\Nico\Desktop\Terminal\User\AI\obj\Debug\net9.0\AI.pdb
 C:\Users\Nico\Desktop\Terminal\User\AI\obj\Debug\net9.0\ref\AI.dll
+C:\Users\Nico\Desktop\Terminal\User\AI\bin\Debug\net9.0\AI.exe
+C:\Users\Nico\Desktop\Terminal\User\AI\bin\Debug\net9.0\AI.runtimeconfig.json
+C:\Users\Nico\Desktop\Terminal\User\AI\obj\Debug\net9.0\AI.genruntimeconfig.cache

@@ -80,3 +80,6 @@ C:\Users\Nico\Desktop\Terminal\obj\Debug\net9.0\Terminal.genruntimeconfig.cache
 C:\Users\Nico\Desktop\Terminal\obj\Debug\net9.0\ref\Terminal.dll
 C:\Users\Nico\Desktop\Terminal\bin\Debug\net9.0\AI.dll
 C:\Users\Nico\Desktop\Terminal\bin\Debug\net9.0\AI.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Debug\net9.0\AI.deps.json
+C:\Users\Nico\Desktop\Terminal\bin\Debug\net9.0\AI.runtimeconfig.json
+C:\Users\Nico\Desktop\Terminal\bin\Debug\net9.0\AI.exe

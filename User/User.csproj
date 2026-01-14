@@ -14,6 +14,7 @@
     <Compile Remove="Steuerung/**" />
     <Compile Remove="Unicode Zeichen/**" />
     <Compile Remove="Anzeigen/**" />
+    <Compile Remove="AI/**" />
   </ItemGroup>
 
   <ItemGroup>
