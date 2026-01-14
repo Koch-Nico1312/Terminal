@@ -9,12 +9,16 @@ using System.Reflection.Metadata;
 using System.Runtime.CompilerServices;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.InteropServices;
+using System.Text;
+using System.Net.Http;
+using System.Reflection;
+using AI;
 namespace admin;
 
 
 public class Admin
 {
-    
+
     public static void admin()
     {
 
@@ -23,13 +27,14 @@ public class Admin
             "Youtube schauen",
             "Serie schauen",
             "Schule",
+            "AI",
             "Beenden"
         };
 
         string[] optionsSchule =
         {
           "VS Code",
-          "Edufs",  
+          "Edufs",
           "Zurück",
         };
 
@@ -37,7 +42,6 @@ public class Admin
         {
             "Mentalist",
             "Originals",
-            "",
             "Zurück"
         };
 
@@ -45,21 +49,21 @@ public class Admin
         {
             "Platzhalter",
             "www.youtube.com",
-            "https://www.joyn.at/serien/the-mentalist", 
+            "https://www.joyn.at/serien/the-mentalist",
             "https://www.joyn.at/serien/the-originals",
             "https://edufs.edu.htl-leonding.ac.at",
         };
-        
+
         var auswahl = MenuSteuerung.AuswaehlenAdmin(options);
-        
+
         switch (auswahl)
         {
             case 0:
                 var youtube = new ProcessStartInfo
                 {
-                  FileName = "firefox",
-                  Arguments = urls[1],
-                  UseShellExecute = true,
+                    FileName = "firefox",
+                    Arguments = urls[1],
+                    UseShellExecute = true,
                 };
                 Process.Start(youtube);
                 break;
@@ -70,9 +74,9 @@ public class Admin
                     case 0:
                         var mentalist = new ProcessStartInfo
                         {
-                          FileName = "firefox",
-                          Arguments = urls[2],
-                          UseShellExecute = true,  
+                            FileName = "firefox",
+                            Arguments = urls[2],
+                            UseShellExecute = true,
                         };
                         Process.Start(mentalist);
                         break;
@@ -84,10 +88,10 @@ public class Admin
                             UseShellExecute = true,
                         };
                         Process.Start(originals);
-                        break;    
+                        break;
                     case 2:
                         admin();
-                        break;    
+                        break;
                 }
                 break;
             case 2:
@@ -110,14 +114,18 @@ public class Admin
                             UseShellExecute = true,
                         };
                         Process.Start(edufs);
-                        break;    
+                        break;
                     case 2:
                         admin();
                         break;
                 }
                 break;
             case 3:
-                break;        
+                AIChat.Start().Wait();
+                admin();  
+                break;
+            case 4:
+                break;
         }
     }
 }

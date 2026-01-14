@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "Admin/1.0.0": {
         "dependencies": {
+          "AI": "1.0.0",
           "Anzeigen": "1.0.0",
           "Name": "1.0.0",
           "Steuerung": "1.0.0"
@@ -94,6 +95,14 @@
           }
         }
       },
+      "AI/1.0.0": {
+        "runtime": {
+          "AI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Anzeigen/1.0.0": {
         "dependencies": {
           "System.Diagnostics.PerformanceCounter": "10.0.1",
@@ -176,6 +185,11 @@
       "sha512": "sha512-m8Ww4HdmbDxvIdUerGD2qlfPRvcgBflI077Sb+sFj6w5ux36JBgFCNSZbR8ttEg0ZRdATgeDtL5I/HuFA0+oVQ==",
       "path": "system.threading.accesscontrol/10.0.1",
       "hashPath": "system.threading.accesscontrol.10.0.1.nupkg.sha512"
+    },
+    "AI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Anzeigen/1.0.0": {
       "type": "project",

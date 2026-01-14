@@ -12,6 +12,7 @@
     <ProjectReference Include="..\Steuerung\Steuerung.csproj" />
     <ProjectReference Include="..\Unicode Zeichen\Unicode Zeichen.csproj" />
     <ProjectReference Include="..\Anzeigen\Anzeigen.csproj" />
+    <ProjectReference Include="..\AI\AI.csproj" />
   </ItemGroup>
 
 </Project>

@@ -94,6 +94,7 @@
       },
       "Admin/1.0.0": {
         "dependencies": {
+          "AI": "1.0.0",
           "Anzeigen": "1.0.0",
           "Name": "1.0.0",
           "Steuerung": "1.0.0",
@@ -101,6 +102,14 @@
         },
         "runtime": {
           "Admin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AI/1.0.0": {
+        "runtime": {
+          "AI.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -216,6 +225,11 @@
       "hashPath": "system.threading.accesscontrol.10.0.1.nupkg.sha512"
     },
     "Admin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

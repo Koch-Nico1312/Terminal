@@ -44,9 +44,9 @@ C:\Users\Nico\Desktop\Terminal\User\bin\Debug\net9.0\Steuerung.pdb
 C:\Users\Nico\Desktop\Terminal\User\bin\Debug\net9.0\Unicode Zeichen.pdb
 C:\Users\Nico\Desktop\Terminal\User\obj\Debug\net9.0\User.csproj.AssemblyReference.cache
 C:\Users\Nico\Desktop\Terminal\User\obj\Debug\net9.0\User.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nico\Desktop\Terminal\User\obj\Debug\net9.0\User.AssemblyInfoInputs.cache
-C:\Users\Nico\Desktop\Terminal\User\obj\Debug\net9.0\User.AssemblyInfo.cs
 C:\Users\Nico\Desktop\Terminal\User\obj\Debug\net9.0\User.csproj.CoreCompileInputs.cache
 C:\Users\Nico\Desktop\Terminal\User\obj\Debug\net9.0\User.sourcelink.json
 C:\Users\Nico\Desktop\Terminal\User\obj\Debug\net9.0\User.csproj.Up2Date
 C:\Users\Nico\Desktop\Terminal\User\obj\Debug\net9.0\ref\User.dll
+C:\Users\Nico\Desktop\Terminal\User\bin\Debug\net9.0\AI.dll
+C:\Users\Nico\Desktop\Terminal\User\bin\Debug\net9.0\AI.pdb

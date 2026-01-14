@@ -112,6 +112,16 @@
           }
         }
       },
+      "AI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/AI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AI.dll": {}
+        }
+      },
       "Anzeigen/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -335,6 +345,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "AI/1.0.0": {
+      "type": "project",
+      "path": "../AI/AI.csproj",
+      "msbuildProject": "../AI/AI.csproj"
+    },
     "Anzeigen/1.0.0": {
       "type": "project",
       "path": "../Anzeigen/Anzeigen.csproj",
@@ -358,6 +373,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "AI >= 1.0.0",
       "Anzeigen >= 1.0.0",
       "Name >= 1.0.0",
       "Steuerung >= 1.0.0",
@@ -397,6 +413,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\Nico\\Desktop\\Terminal\\User\\AI\\AI.csproj": {
+              "projectPath": "C:\\Users\\Nico\\Desktop\\Terminal\\User\\AI\\AI.csproj"
+            },
             "C:\\Users\\Nico\\Desktop\\Terminal\\User\\Anzeigen\\Anzeigen.csproj": {
               "projectPath": "C:\\Users\\Nico\\Desktop\\Terminal\\User\\Anzeigen\\Anzeigen.csproj"
             },

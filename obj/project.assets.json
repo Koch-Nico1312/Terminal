@@ -116,6 +116,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "AI": "1.0.0",
           "Anzeigen": "1.0.0",
           "Name": "1.0.0",
           "Steuerung": "1.0.0",
@@ -126,6 +127,16 @@
         },
         "runtime": {
           "bin/placeholder/Admin.dll": {}
+        }
+      },
+      "AI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/AI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AI.dll": {}
         }
       },
       "Anzeigen/1.0.0": {
@@ -385,6 +396,11 @@
       "type": "project",
       "path": "User/Admin/Admin.csproj",
       "msbuildProject": "User/Admin/Admin.csproj"
+    },
+    "AI/1.0.0": {
+      "type": "project",
+      "path": "User/AI/AI.csproj",
+      "msbuildProject": "User/AI/AI.csproj"
     },
     "Anzeigen/1.0.0": {
       "type": "project",
