@@ -61,7 +61,7 @@ public class MenuSteuerung
         do
         {
             Console.Clear();
-
+            
             Anzeigen.showAdminInfos();
 
             Console.SetCursorPosition(0,10);

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unicode Zeichen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ff2a8564e4a8bc754e02c81c084714ee24ecfe6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2247162633535c7ce105448e031953617d0aab94")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unicode Zeichen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unicode Zeichen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

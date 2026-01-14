@@ -94,6 +94,7 @@
       },
       "Admin/1.0.0": {
         "dependencies": {
+          "Anzeigen": "1.0.0",
           "Name": "1.0.0",
           "Steuerung": "1.0.0",
           "Unicode Zeichen": "1.0.0"

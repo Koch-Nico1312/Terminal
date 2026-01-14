@@ -1,7 +1,8 @@
-﻿using System.Security.Cryptography.X509Certificates;
+using System.Security.Cryptography.X509Certificates;
 using Namen;
 using Steuerung;
 using Buchstaben;
+using anzeigen;
 using System.Diagnostics;
 using System.Reflection.Metadata.Ecma335;
 using System.Reflection.Metadata;
@@ -13,8 +14,10 @@ namespace admin;
 
 public class Admin
 {
+    
     public static void admin()
     {
+
         string[] options =
         {
             "Youtube schauen",
@@ -54,7 +57,6 @@ public class Admin
                 break;
             case 1:
                 auswahl = MenuSteuerung.AuswaehlenAdmin(optionsSerie);
-
                 switch (auswahl)
                 {
                     case 0:

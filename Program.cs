@@ -5,6 +5,6 @@ class Program
 {
     static void Main()
     {
-        User.main();
+        User.user();
     }
 }

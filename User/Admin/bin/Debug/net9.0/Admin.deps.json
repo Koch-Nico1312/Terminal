@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "Admin/1.0.0": {
         "dependencies": {
+          "Anzeigen": "1.0.0",
           "Name": "1.0.0",
           "Steuerung": "1.0.0"
         },

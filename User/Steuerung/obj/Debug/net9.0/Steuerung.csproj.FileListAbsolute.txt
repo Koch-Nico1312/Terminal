@@ -16,3 +16,21 @@ C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerun
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\refint\Steuerung.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\ref\Steuerung.dll
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Steuerung.deps.json
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Steuerung.dll
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Steuerung.pdb
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Anzeigen.dll
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Unicode Zeichen.dll
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Unicode Zeichen.pdb
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\bin\Debug\net9.0\Anzeigen.pdb
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.sourcelink.json
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.csproj.Up2Date
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.dll
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\refint\Steuerung.dll
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\Steuerung.pdb
+C:\Users\Nico\Desktop\Terminal\User\Steuerung\obj\Debug\net9.0\ref\Steuerung.dll
