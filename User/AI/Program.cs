@@ -4,13 +4,8 @@ using System.Text.Json;
 
 namespace AI;
 
-public class Program
-{
-    public static async Task Main()
-    {
-        await AIChat.Start();
-    }
-}
+// Main-Methode entfernt, da AI als Bibliothek verwendet wird
+// Wenn AI als eigenständiges Programm verwendet werden soll, kann es separat veröffentlicht werden
 
 public class AIChat
 {

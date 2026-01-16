@@ -1,0 +1,12 @@
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\bin\Release\net9.0\Unicode Zeichen.deps.json
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\bin\Release\net9.0\Unicode Zeichen.dll
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\bin\Release\net9.0\Unicode Zeichen.pdb
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\obj\Release\net9.0\Unicode Zeichen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\obj\Release\net9.0\Unicode Zeichen.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\obj\Release\net9.0\Unicode Zeichen.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\obj\Release\net9.0\Unicode Zeichen.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\obj\Release\net9.0\Unicode Zeichen.sourcelink.json
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\obj\Release\net9.0\Unicode Zeichen.dll
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\obj\Release\net9.0\refint\Unicode Zeichen.dll
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\obj\Release\net9.0\Unicode Zeichen.pdb
+C:\Users\Nico\Desktop\Terminal\User\Unicode Zeichen\obj\Release\net9.0\ref\Unicode Zeichen.dll

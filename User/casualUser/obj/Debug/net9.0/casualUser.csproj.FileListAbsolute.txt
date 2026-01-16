@@ -20,6 +20,50 @@ C:\Users\kochn_lrehka5\Desktop\Terminal\User\casualUser\obj\Debug\net9.0\casualU
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\casualUser\obj\Debug\net9.0\refint\casualUser.dll
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.pdb
 C:\Users\kochn_lrehka5\Desktop\Terminal\User\casualUser\obj\Debug\net9.0\ref\casualUser.dll
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\casualUser.deps.json
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\casualUser.dll
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\casualUser.pdb
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\Anzeigen.dll
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\Name.dll
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\Steuerung.dll
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\Unicode Zeichen.dll
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\Steuerung.pdb
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\Name.pdb
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\Unicode Zeichen.pdb
+C:\Dev\Terminal\User\casualUser\bin\Debug\net9.0\Anzeigen.pdb
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.csproj.AssemblyReference.cache
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.AssemblyInfoInputs.cache
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.AssemblyInfo.cs
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.csproj.CoreCompileInputs.cache
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.sourcelink.json
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.csproj.Up2Date
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.dll
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\refint\casualUser.dll
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.pdb
+C:\Dev\Terminal\User\casualUser\obj\Debug\net9.0\ref\casualUser.dll
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\casualUser.deps.json
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\casualUser.dll
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\casualUser.pdb
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\Anzeigen.dll
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\Name.dll
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\Steuerung.dll
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\Unicode Zeichen.dll
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\Steuerung.pdb
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\Name.pdb
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\Unicode Zeichen.pdb
+C:\Users\Nico\Terminal\User\casualUser\bin\Debug\net9.0\Anzeigen.pdb
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.csproj.AssemblyReference.cache
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.AssemblyInfoInputs.cache
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.AssemblyInfo.cs
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.sourcelink.json
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.csproj.Up2Date
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.dll
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\refint\casualUser.dll
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\casualUser.pdb
+C:\Users\Nico\Terminal\User\casualUser\obj\Debug\net9.0\ref\casualUser.dll
 C:\Users\Nico\Desktop\Terminal\User\casualUser\bin\Debug\net9.0\casualUser.deps.json
 C:\Users\Nico\Desktop\Terminal\User\casualUser\bin\Debug\net9.0\casualUser.dll
 C:\Users\Nico\Desktop\Terminal\User\casualUser\bin\Debug\net9.0\casualUser.pdb

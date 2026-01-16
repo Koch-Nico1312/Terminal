@@ -1,0 +1,10 @@
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\Terminal.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\User.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\Admin.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\AI.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\Anzeigen.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\casualUser.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\Name.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\Steuerung.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\Unicode Zeichen.pdb
+C:\Users\Nico\Desktop\Terminal\bin\Release\net9.0\win-x64\publish\Terminal.exe
