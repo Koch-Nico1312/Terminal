@@ -10,7 +10,7 @@ public class User
     CasualUser c = new CasualUser();
     public static void user()
     {
-        if (namenAbfrage.main() == "NicoA")
+        if (namenAbfrage.main() == "NicoA" ||namenAbfrage.main() == "PALI")
         {
             Admin.admin();
         }
